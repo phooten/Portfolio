@@ -18,7 +18,7 @@ competition in 2019 and 2018. The control was done completely by onboard sensors
 
 [2018 Robot Demo [ Youtube ] ](https://youtu.be/KLXMmuJMLeM)
 * Brief Objective Description:
-    * Receive the order to press the buttons, switches, and turn the steering wheel. This was received via binary code from ________
+    * Receive the order to press the buttons, switches, and turn the steering wheel. This was received via binary code from an infrared LED
     * Press the two buttons, them move down and press the two switches, both in the correct order
     * Rotate the wheel to the correct angle [ Not done successfully in the video ]
     * Pick up the metal box via electromagnet [ Not done successfully in the video ]
@@ -31,5 +31,7 @@ competition in 2019 and 2018. The control was done completely by onboard sensors
 * Current Status:
    *  A single image can be wrapped around an object
    *  Next steps are to create a GUI so a user can upload their own photos without messing with code
-
-Sample image <img src="https://github.com/phooten/Portfolio/blob/main/reference/Sample_Texture.png?raw=true" width="150" height="150"> gets wrapped around an object <img src="https://github.com/phooten/Portfolio/blob/main/reference/Wrapped_Texture.png?raw=true" width="150" height="150">
+   * Sample image: 
+      * <img src="https://github.com/phooten/Portfolio/blob/main/reference/Sample_Texture.png?raw=true" width="150" height="150"> 
+   * Wrapped around an object: 
+      * <img src="https://github.com/phooten/Portfolio/blob/main/reference/Wrapped_Texture.png?raw=true" width="150" height="150">
