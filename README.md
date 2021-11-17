@@ -13,14 +13,16 @@ competition in 2019 and 2018. The control was done completely by onboard sensors
     * Collect colored cubes and spheres, then sort them on the robot
     * Place the objects in the correct squares that are in the corners of the board [ not done in the video ]
     * Bonus points for each lap around the board 
-    
+<br /><img src="https://github.com/phooten/Portfolio/blob/main/reference/Robot_2019.PNG" width="200" height="200">
+
+
 [2018 Robot Demo [ Youtube ] ](https://youtu.be/KLXMmuJMLeM)
 * Brief Objective Description:
     * Receive the order to press the buttons, switches, and turn the steering wheel. This was received via binary code from ________
     * Press the two buttons, them move down and press the two switches, both in the correct order
     * Rotate the wheel to the correct angle [ Not done successfully in the video ]
     * Pick up the metal box via electromagnet [ Not done successfully in the video ]
-
+<br /><img src="https://github.com/phooten/Portfolio/blob/main/reference/Robot_2018.PNG?raw=true" width="200" height="200">
 
 ## GitHub
 [ Random Image Generator - In Progress](https://github.com/phooten/imageGenerator.git)
@@ -30,3 +32,4 @@ competition in 2019 and 2018. The control was done completely by onboard sensors
    *  A single image can my wrapped around an object, but only through uploading the the project
    *  Next steps are to create a GUI so a user can upload their own photos without messing with code
 
+Sample image <img src="https://github.com/phooten/Portfolio/blob/main/reference/Sample_Texture.PNG?raw=true" width="200" height="200"> gets wrapped around an object <img src="https://github.com/phooten/Portfolio/blob/main/reference/Wrapped_Texture.PNG?raw=true" width="200" height="200">
