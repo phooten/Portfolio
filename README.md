@@ -35,3 +35,10 @@ competition in 2019 and 2018. The control was done completely by onboard sensors
       * <img src="https://github.com/phooten/Portfolio/blob/main/reference/Sample_Texture.png?raw=true" width="150" height="150"> 
    * Wrapped around an object: 
       * <img src="https://github.com/phooten/Portfolio/blob/main/reference/Wrapped_Texture.png?raw=true" width="150" height="150">
+
+
+## Work Projects:
+[ Boat Steering Thrusters ](https://www.youtube.com/watch?v=Dt3BEZ41HUA)
+* Description:
+   * Wrote logic and R&D software that was implemented into the final design 
+   * Allows user to control additional two side motors to steer via screen and/or throttle
