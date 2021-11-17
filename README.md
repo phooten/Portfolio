@@ -13,7 +13,7 @@ competition in 2019 and 2018. The control was done completely by onboard sensors
     * Collect colored cubes and spheres, then sort them on the robot
     * Place the objects in the correct squares that are in the corners of the board [ not done in the video ]
     * Bonus points for each lap around the board 
-<br /><img src="https://github.com/phooten/Portfolio/blob/main/reference/Robot_2019.PNG" width="200" height="200">
+<br /><img src="https://github.com/phooten/Portfolio/blob/main/reference/Robot_2019.jpg" width="150" height="150">
 
 
 [2018 Robot Demo [ Youtube ] ](https://youtu.be/KLXMmuJMLeM)
@@ -32,4 +32,4 @@ competition in 2019 and 2018. The control was done completely by onboard sensors
    *  A single image can my wrapped around an object, but only through uploading the the project
    *  Next steps are to create a GUI so a user can upload their own photos without messing with code
 
-Sample image <img src="https://github.com/phooten/Portfolio/blob/main/reference/Sample_Texture.PNG?raw=true" width="200" height="200"> gets wrapped around an object <img src="https://github.com/phooten/Portfolio/blob/main/reference/Wrapped_Texture.PNG?raw=true" width="200" height="200">
+Sample image <img src="https://github.com/phooten/Portfolio/blob/main/reference/Sample_Texture.png?raw=true" width="200" height="200"> gets wrapped around an object <img src="https://github.com/phooten/Portfolio/blob/main/reference/Wrapped_Texture.png?raw=true" width="200" height="200">
